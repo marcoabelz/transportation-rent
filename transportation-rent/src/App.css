@@ -1,0 +1,104 @@
+body {
+  background-color: rgb(226, 246, 255);
+  font-family: "Roboto", sans-serif;
+  overflow-x: hidden;
+  /* color: white; */
+}
+
+#page-title {
+  text-align: center;
+  margin: 20px 0px;
+}
+
+#cards {
+  padding: 20px 20px;
+  background-color: rgb(229, 229, 229);
+}
+
+.pagination {
+  justify-content: center;
+}
+
+.card {
+  color: white;
+  padding: 0px;
+  margin: 10px 10px;
+  background-color: rgb(0, 170, 255);
+}
+
+.navbar {
+  background-color: rgb(137, 216, 255) !important;
+}
+
+#sort {
+  text-align: center;
+  margin: 30px;
+}
+
+#filter {
+  text-align: center;
+  margin: 30px;
+}
+
+.btn-sort {
+  background-color: aquamarine;
+  margin: 0px 20px;
+}
+
+.name {
+  background-color: rgb(0, 208, 255);
+}
+
+.price {
+  background-color: rgb(155, 237, 255);
+}
+
+.location {
+  background-color: rgb(0, 208, 255);
+}
+
+.login-form-size {
+  max-width: 400px;
+  /* maxWidth: "400px";  */
+  margin: auto;
+}
+
+#category-list {
+  padding: 0px 100px;
+}
+
+#transportation-list {
+  padding: 0px 100px;
+}
+
+#new-user-section {
+  padding: 0px 100px;
+}
+
+#card-position {
+  justify-content: center;
+}
+
+.button-font-color {
+  color: white !important;
+}
+
+/* @keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Styling untuk toast kustom */
+.custom-toast {
+  background-color: #e74c3c; /* Ubah warna latar belakang ke merah */
+  color: #fff; /* Ubah warna teks ke putih */
+  animation: fadeIn 0.5s ease; /* Terapkan animasi fadeIn */
+  border-radius: 8px; /* Tambahkan border-radius untuk tampilan yang lebih lembut */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Tambahkan bayangan untuk efek dimensi */
+} */
